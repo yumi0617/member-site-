@@ -1,0 +1,13 @@
+@media (max-width:1400px) {
+    body {
+        width: 1400px;
+    }
+    #content {
+        width: 1200px;
+        margin: auto;
+    }
+    #menber-logo {
+        margin-top: 50px;
+        margin-bottom: 30px;
+    }
+ }
